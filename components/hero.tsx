@@ -29,7 +29,7 @@ export default function Hero() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Book Yourself an Appointment with our Professional.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <Link href="/signup" className="btn-sm text-white bg-red-600 hover:bg-red-700 ml-3">
+                <Link href="/signup" className="btn-sm text-white bg-blue-600 hover:bg-blue-700 ml-3">
                   Book Appointment
                 </Link>              </div>
             </div>

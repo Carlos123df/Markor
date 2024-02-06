@@ -63,7 +63,7 @@ export default function MobileMenu() {
           <li>
             <Link
               href="/signup"
-              className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-red-600 hover:bg-red-700 transition duration-150 ease-in-out" onClick={() => setMobileNavOpen(false)}
+              className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-blue-600 hover:bg-blue-700 transition duration-150 ease-in-out" onClick={() => setMobileNavOpen(false)}
             >
               Make a Deal
             </Link>

@@ -19,7 +19,7 @@ export default function SignIn() {
           {/* Form */}
           <div className="max-w-sm mx-auto">
             <div className="text-gray-400 text-center mt-6">
-              Go to Home <Link href="/" className="text-red-600 hover:text-gray-200 transition duration-150 ease-in-out">Lets Go.</Link>
+              Go to Home <Link href="/" className="text-blue-600 hover:text-gray-200 transition duration-150 ease-in-out">Lets Go.</Link>
             </div>
           </div>
 

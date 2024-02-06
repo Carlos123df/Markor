@@ -31,25 +31,25 @@ export default function SignUp() {
             <form>
               <div className="flex flex-wrap -mx-3 mb-4">
                 <div className="w-full px-3">
-                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="full-name">Full Name <span className="text-red-600">*</span></label>
+                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="full-name">Full Name <span className="text-blue-600">*</span></label>
                   <input id="full-name" type="text" className="form-input w-full text-gray-300" placeholder="First and last name" required />
                 </div>
               </div>
               <div className="flex flex-wrap -mx-3 mb-4">
                 <div className="w-full px-3">
-                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="company-name">Company Name <span className="text-red-600">*</span></label>
+                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="company-name">Company Name <span className="text-blue-600">*</span></label>
                   <input id="company-name" type="text" className="form-input w-full text-gray-300" placeholder="Your company or app name" required />
                 </div>
               </div>
               <div className="flex flex-wrap -mx-3 mb-4">
                 <div className="w-full px-3">
-                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="email">Work Email <span className="text-red-600">*</span></label>
+                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="email">Work Email <span className="text-blue-600">*</span></label>
                   <input id="email" type="email" className="form-input w-full text-gray-300" placeholder="you@yourcompany.com" required />
                 </div>
               </div>
               <div className="flex flex-wrap -mx-3 mb-4">
                 <div className="w-full px-3">
-                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="password">Your Free Time  <span className="text-red-600">*</span></label>
+                  <label className="block text-gray-300 text-sm font-medium mb-1" htmlFor="password">Your Free Time  <span className="text-blue-600">*</span></label>
                   <input id="password" type="time" className="form-input w-full text-gray-300" placeholder="Password (at least 10 characters)" required />
                 </div>
               </div>
@@ -57,7 +57,7 @@ export default function SignUp() {
                 I agree to be contacted by Open PRO about this offer as per the Open PRO <Link href="#" className="underline text-gray-400 hover:text-gray-200 hover:no-underline transition duration-150 ease-in-out">Privacy Policy</Link>.
               </div>
               <div className="flex flex-wrap -mx-3 mt-6">
-                               <Link href="/signin" className="btn-sm text-white bg-red-600 hover:bg-red-700 ml-3">
+                               <Link href="/signin" className="btn-sm text-white bg-blue-600 hover:bg-blue-700 ml-3">
                   Book Appointment
                 </Link>
               </div>
