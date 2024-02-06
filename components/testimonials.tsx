@@ -29,7 +29,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">"Markor has become my secret weapon for success. Within just a few minutes of installing it, I transformed from a mere mortal to a productivity superhero. It's so powerful that I'm considering renaming myself 'Captain Efficiency.' Thanks, Open ULTRA, for making me the hero of my own story!"</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">"Bentel LLC has become my secret weapon for success. Within just a few minutes of installing it, I transformed from a mere mortal to a productivity superhero. It's so powerful that I'm considering renaming myself 'Captain Efficiency.' Thanks, Open ULTRA, for making me the hero of my own story!"</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Diana Dynamo</cite> - <a className="text-red-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Efficiency Enthusiast</a>
               </div>
@@ -45,7 +45,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— MARKOR lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Bentel LLC lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-red-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Office Yogi</a>
               </div>
@@ -61,7 +61,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">"I stumbled upon Markor Retail yesterday, and it's like I've found the holy grail of productivity. My to-do list trembles in fear as I conquer tasks at the speed of light. It's been a whole 15 minutes, and I've already unlocked my superhuman potential. Open MIRACLE, you're the real miracle-worker here!"</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">"I stumbled upon Bentel LLC Retail yesterday, and it's like I've found the holy grail of productivity. My to-do list trembles in fear as I conquer tasks at the speed of light. It's been a whole 15 minutes, and I've already unlocked my superhuman potential. Open MIRACLE, you're the real miracle-worker here!"</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Sam Wonder</cite> - <a className="text-red-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Task-Slaying Superstar</a>
               </div>

@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Markor Retail LLC',
+  title: 'Home - Bentel LLC Retail LLC',
   description: 'Page description',
 }
 

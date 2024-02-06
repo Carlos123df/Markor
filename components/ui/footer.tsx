@@ -20,7 +20,7 @@ export default function Footer() {
                   </svg>
                 </Link>
               </div>
-              {/* <div className="text-gray-400"> Markor Retail LLC</div> */}
+              {/* <div className="text-gray-400"> Bentel LLC </div> */}
               <div className="text-gray-400"> 30 N GOULD ST 37264</div>
               <div className="text-gray-400"> SHERIDAN WY 82801 UNITED STATES</div>
 
@@ -30,7 +30,7 @@ export default function Footer() {
 
           {/* Bottom area */}
           <div className="md:flex md:items-center md:justify-between">
-            <div className="text-gray-400 text-sm mr-4">&copy; Markor Retail LLC. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; Bentel LLC. All rights reserved.</div>
 
           </div>
 
