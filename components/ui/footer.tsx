@@ -20,9 +20,9 @@ export default function Footer() {
                   </svg>
                 </Link>
               </div>
-              <div className="text-gray-400"> Markor Retail LLC</div>
-              <div className="text-gray-400"> 1129 SKYLINE DR</div>
-              <div className="text-gray-400"> YUBA CITY CA95991</div>
+              {/* <div className="text-gray-400"> Markor Retail LLC</div> */}
+              <div className="text-gray-400"> 30 N GOULD ST 37264</div>
+              <div className="text-gray-400"> SHERIDAN WY 82801 UNITED STATES</div>
 
             </div>
 
